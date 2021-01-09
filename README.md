@@ -15,4 +15,4 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <a href="https://www.facebook.com/dawid.szpener.5" target="_blank"><img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/fb.png" alt="Facebook" width="30"></a>
 <a href="https://www.linkedin.com/in/dawid-szpener-b853021a1/" target="_blank"><img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/DawidSzpener" target="_blank"><img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/git.png" alt="GitHub" width="30"></a>
-<a href="https://www.dawidszpener.com" target="_blank"><img src="hhttps://github.com/DawidSzpener/DawidSzpener/blob/main/www.png" alt="Website" width="30"></a>
+<a href="https://www.dawidszpener.com" target="_blank"><img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/www.png" alt="Website" width="30"></a>
