@@ -12,35 +12,35 @@ I'm fun to work with, I always like to learn new things from others as much as h
   <summary>
     React.js
   </summary>
-  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eaf23a47-b9fe-45c5-81c4-476d81534223.jpg" alt="certificate" width="300" height="300">
+  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eaf23a47-b9fe-45c5-81c4-476d81534223.jpg" alt="certificate" width="400" height="300">
 </details>
 
 <details>
   <summary>
     Python
   </summary>
-  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-99bdc4ae-9380-4f93-b402-4cbfc292548e.jpg" alt="certificate" width="300" height="300">
+  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-99bdc4ae-9380-4f93-b402-4cbfc292548e.jpg" alt="certificate" width="400" height="300">
 </details>
 
 <details>
   <summary>
     Django
   </summary>
-  <img src="https://raw.githubusercontent.com/DawidSzpener/DawidSzpener/main/certificates/UC-808f6e67-4b28-46e1-9def-67db8ab06490.jpg" alt="certificate" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/DawidSzpener/DawidSzpener/main/certificates/UC-808f6e67-4b28-46e1-9def-67db8ab06490.jpg" alt="certificate" width="400" height="300">
 </details>
 
 <details>
   <summary>
     Ruby
   </summary>
-  <img src="https://raw.githubusercontent.com/DawidSzpener/DawidSzpener/main/certificates/UC-969de199-bf5d-4ede-ad46-d9a91fe02ae8.jpg" alt="certificate" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/DawidSzpener/DawidSzpener/main/certificates/UC-969de199-bf5d-4ede-ad46-d9a91fe02ae8.jpg" alt="certificate" width="400" height="300">
 </details>
 
 <details>
   <summary>
     Ruby on Rails
   </summary>
-  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eb17ceae-3890-455e-b65c-73f862e22f1b.jpg" alt="certificate" width="300" height="300">
+  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eb17ceae-3890-455e-b65c-73f862e22f1b.jpg" alt="certificate" width="400" height="300">
 </details>
 
 ##### MOTTO
