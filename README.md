@@ -12,7 +12,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
   <summary>
     React.js
   </summary>
-  <img src=https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eaf23a47-b9fe-45c5-81c4-476d81534223.jpg" alt="certificate" width="300" height="300">
+  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eaf23a47-b9fe-45c5-81c4-476d81534223.jpg" alt="certificate" width="300" height="300">
 </details>
 
 <details>
@@ -40,7 +40,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
   <summary>
     Ruby on Rails
   </summary>
-  <img src=https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eb17ceae-3890-455e-b65c-73f862e22f1b.jpg" alt="certificate" width="300" height="300">
+  <img src="https://github.com/DawidSzpener/DawidSzpener/blob/main/certificates/UC-eb17ceae-3890-455e-b65c-73f862e22f1b.jpg" alt="certificate" width="300" height="300">
 </details>
 
 ##### MOTTO
